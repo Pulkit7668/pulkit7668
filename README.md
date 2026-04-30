@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkit7668&label=Profile%20views&color=0e75b6&style=flat" alt="pulkit7668" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Frontend Web Development**
 
 - 📫 How to reach me **pulkitpandit12345@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bdRGobeg3rGUmCe6L2RFMRWAlnTkNzR_/view?usp=sharing](https://drive.google.com/file/d/1bdRGobeg3rGUmCe6L2RFMRWAlnTkNzR_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kjTN2Wl0dkrhwZJhZoQD-XOMcPswT1I1/view?usp=sharing](Resume)
+- 📄 Know about my experiences [https://portfolio-website-gamma-swart-78.vercel.app/](Portfolio)
+- 
 
 - ⚡ Fun fact **I love converting ideas into responsive web interfaces.**
 
