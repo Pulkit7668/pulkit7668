@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pulkit Gautam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Web Developer | React.js, Node.js & Modern Web Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkit7668&label=Profile%20views&color=0e75b6&style=flat" alt="pulkit7668" /> </p>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Frontend Web Development**
 
 - 📫 How to reach me **pulkitpandit12345@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qkdnepMR8zJmHRbIN2BiO0c75DXAQEpV/view?usp=sharing)
-- 📄 Know about my experiences [Portfolio](https://portfolio-website-gamma-swart-78.vercel.app/)
+- 📄 Here is my Resume: [Resume](https://drive.google.com/file/d/1qkdnepMR8zJmHRbIN2BiO0c75DXAQEpV/view?usp=sharing)
+- 📄 Here is my Portfolio Website: [Portfolio](https://portfolio-website-gamma-swart-78.vercel.app/)
 - 
 
 - ⚡ Fun fact **I love converting ideas into responsive web interfaces.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pulkit gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit gautam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pulkit-gautam-ab81a8267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit gautam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
