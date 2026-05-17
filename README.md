@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pulkitpandit12345@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kjTN2Wl0dkrhwZJhZoQD-XOMcPswT1I1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qkdnepMR8zJmHRbIN2BiO0c75DXAQEpV/view?usp=sharing)
 - 📄 Know about my experiences [Portfolio](https://portfolio-website-gamma-swart-78.vercel.app/)
 - 
 
